@@ -1,15 +1,14 @@
 # Site settings
+author: Conor Hamilton
 title: Coding with Conor
 header-img: img/home-bg.png
 email: conhamil19@gmail.com
-copyright_name: ConorHamilton19
+copyright_name: Conor Hamilton
 description: > # this means to ignore newlines until "baseurl:"
   My journey into the world of Software Development.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ConorHamilton19
-learn_profile: ConorHamilton19
-email_username: conhamil19@gmail.com
 
 # Build settings
 markdown: kramdown
